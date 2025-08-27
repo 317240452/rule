@@ -4,7 +4,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "机场订阅填到这里，两端引号不要去掉，不要填写到下方链接里去！！"
+    url: "https://sub.kwk7thgc.com/?L1N1YnNjcmlwdGlvbi9DbGFzaD90Zm89MSZ0PTIwMjImc2lkPTE1Mjg2JnRva2VuPVNUbXRCR0g1ZWJYJm1tPTI1MzcyJmt0bW09YWtzZFFBejd4cENZS2VyMGY5MzdkQSUzZCUzZCYyYmNkN2M4YzZkNDg0MjRkYTc4MWNhOWE="
     type: http
     interval: 86400
     health-check:
